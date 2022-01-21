@@ -1,4 +1,5 @@
-#Brookhaven National Laboratory ProjectIntegrated a pipeline for defect identification in real images using simulated batches
+# Brookhaven National Laboratory Project
+Integrated a pipeline for defect identification in real images using simulated batches
 Using quantum algorithm to calculate lennard jones potential with harmonic oscillators
 
 I had the following goals: 
